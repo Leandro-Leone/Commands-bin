@@ -41,4 +41,6 @@ case "$main_option" in
 	*)
 	
 		echo "No such option $main_option"; exit 1
+		
+	;;
 esac
