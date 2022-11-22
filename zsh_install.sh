@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+# Created for docker purposes
 
 echo \
 "
