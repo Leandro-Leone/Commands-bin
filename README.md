@@ -32,3 +32,17 @@ wget https://raw.githubusercontent.com/Leandro-Leone/Commands-bin/main/download-
 ```bash
 wget https://raw.githubusercontent.com/Leandro-Leone/Commands-bin/main/zsh_install-docker/zsh_install.sh
 ```
+
+<img src="/src/img/ipfinder.svg">
+
+**Show the active ip on network 1-100**
+
+
+[See ipfinder.sh](https://github.com/Leandro-Leone/Commands-bin/tree/main/ipfinder)
+
+
+#### Install
+```bash
+wget https://raw.githubusercontent.com/Leandro-Leone/Commands-bin/main/ipfinder/ipfinder.sh
+```
+
