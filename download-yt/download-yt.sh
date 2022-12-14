@@ -15,7 +15,7 @@ source help.txt.conf
 
 case "$1" in
 
-	-h|--) echo $help;;
+	-h|--help) echo $help;;
 
 	-d|--download) youtube-dl -x --embed-thumbnail --audio-format mp3 "$2" ;;
 
