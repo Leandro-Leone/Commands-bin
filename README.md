@@ -13,11 +13,11 @@
 
 **Download music from youtube just passing link parameter `-d`**
 
-[See download-yt.sh](https://github.com/Leandro-Leone/Commands-bin/blob/main/download-yt/download-yt.sh)
+[See download-yt.sh](https://github.com/leone-sh/Commands-bin/blob/main/download-yt/download-yt.sh)
 
 #### Install
 ```bash
-wget https://raw.githubusercontent.com/Leandro-Leone/Commands-bin/main/download-yt/download-yt.sh
+wget https://raw.githubusercontent.com/leone-sh/Commands-bin/main/download-yt/download-yt.sh
 ```
 
 #
@@ -26,11 +26,11 @@ wget https://raw.githubusercontent.com/Leandro-Leone/Commands-bin/main/download-
 
 **Download zsh on docker container automatically**
 
-[See zsh_install.sh](https://github.com/Leandro-Leone/Commands-bin/blob/main/zsh_install-docker/zsh_install.sh)
+[See zsh_install.sh](https://github.com/leone-sh/Commands-bin/blob/main/zsh_install-docker/zsh_install.sh)
 
 #### Install
 ```bash
-wget https://raw.githubusercontent.com/Leandro-Leone/Commands-bin/main/zsh_install-docker/zsh_install.sh
+wget https://raw.githubusercontent.com/leone-sh/Commands-bin/main/zsh_install-docker/zsh_install.sh
 ```
 
 <img src="/src/img/ipfinder.svg">
@@ -38,11 +38,11 @@ wget https://raw.githubusercontent.com/Leandro-Leone/Commands-bin/main/zsh_insta
 **Show the active ip on network 1-100**
 
 
-[See ipfinder.sh](https://github.com/Leandro-Leone/Commands-bin/tree/main/ipfinder)
+[See ipfinder.sh](https://github.com/leone-sh/Commands-bin/tree/main/ipfinder)
 
 
 #### Install
 ```bash
-wget https://raw.githubusercontent.com/Leandro-Leone/Commands-bin/main/ipfinder/ipfinder.sh
+wget https://raw.githubusercontent.com/leone-sh/Commands-bin/main/ipfinder/ipfinder.sh
 ```
 
