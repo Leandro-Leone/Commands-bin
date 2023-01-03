@@ -9,6 +9,11 @@
 
 #
 
+<!-- yt-downloader -->
+
+<details><summary>yt-downloader</summary>
+<p>
+
 <img src="/src/img/yt-downloader-logo.png">
 
 **Download music from youtube just passing link parameter `-d`**
@@ -20,7 +25,13 @@
 wget https://raw.githubusercontent.com/leone-sh/Commands-bin/main/download-yt/download-yt.sh
 ```
 
-#
+</p>
+</details>
+
+<!-- zsh_install-dockerdownload-yt -->
+
+<details><summary>zsh_install-dockerdownload-yt</summary>
+<p>
 
 <img src="/src/img/zsh_install-dockerdownload-yt.svg">
 
@@ -32,6 +43,15 @@ wget https://raw.githubusercontent.com/leone-sh/Commands-bin/main/download-yt/do
 ```bash
 wget https://raw.githubusercontent.com/leone-sh/Commands-bin/main/zsh_install-docker/zsh_install.sh
 ```
+
+</p>
+</details>
+
+<!-- ipfinder -->
+
+<details><summary>ipfinder</summary>
+<p>
+
 
 <img src="/src/img/ipfinder.svg">
 
@@ -45,4 +65,3 @@ wget https://raw.githubusercontent.com/leone-sh/Commands-bin/main/zsh_install-do
 ```bash
 wget https://raw.githubusercontent.com/leone-sh/Commands-bin/main/ipfinder/ipfinder.sh
 ```
-
