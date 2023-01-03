@@ -9,7 +9,7 @@
 
 #
 
-<img src="/src/img/download-yt.svg">
+<img src="/src/img/yt-downloader-logo.png">
 
 **Download music from youtube just passing link parameter `-d`**
 
