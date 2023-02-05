@@ -39,3 +39,4 @@ while true; do
 			echo "No such option $main_option"; exit 1
 		;;
 	esac
+done
