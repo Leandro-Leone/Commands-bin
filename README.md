@@ -65,3 +65,20 @@ wget https://raw.githubusercontent.com/leone-sh/Commands-bin/main/zsh_install-do
 ```bash
 wget https://raw.githubusercontent.com/leone-sh/Commands-bin/main/ipfinder/ipfinder.sh
 ```
+
+<!-- Delete all resource groups on azure with one command-->
+
+<details><summary>CLICK ME</summary>
+<p>
+
+**Delete all resource groups from azure with one command I did**
+
+```bash
+for group in $(az group list | grep "name" | cut -d ":" -f 2 | cut -d "\"" -f 2); do az group delete -y --no-wait --resource-group $group; done
+
+```
+
+</p>
+</details>
+
+
